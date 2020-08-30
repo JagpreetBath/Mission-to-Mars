@@ -8,3 +8,7 @@ Robin wants to write a Python script that can navigate the webpages
 to collect the right information. Within the Python script use Splinter to automate a web browser, BeautifulSoup to parse and extract the data. Once Robin has all the data, she wants to NoSQL database MongoDB to store it instead of using a SQL database with its structural rules. Here’s why data pulled from the internet comes in many different forms. It’s not always in the neat and tidy tables that SQL requires. Mongo was designed as a document-based database that suits Robin’s needs a bit better. She wants to download tables but also paragraphs and images. Robin wants to put it all together in a web application of her own by using Flask as a web framework that allows creating a web application using Python and then customize it with HTML and CSS.
 
 The purpose of the project is to help Robin pull data from multiple websites using a Python script, store the data in MongoDB, then present the collected data in a central location: a webpage using Flask as a web framework that allows creating a web application using Python and then customize it with HTML and CSS.
+
+## Result
+
+![Final Result](./Final_Result.png)
